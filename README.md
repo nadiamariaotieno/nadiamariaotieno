@@ -1,8 +1,8 @@
 # Hi, I’m Nadia 👋🏽
 
 🎓 **Computer Science student (Applied Computer Technology)**
-💻 Software developer building real-world projects
-📍 Nairobi, Kenya
+*💻 Software developer building real-world projects
+*📍 Nairobi, Kenya
 
 ## 🚀 About Me
 
