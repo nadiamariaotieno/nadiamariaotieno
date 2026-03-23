@@ -21,9 +21,13 @@ If it deploys, we brag (a little).
 🛠️ Tech Stack
 
 Languages: JavaScript, C#, SQL
+
 Frameworks & Libraries: React, Tailwind CSS
+
 Backend & Databases: PHP, MySQL, Firebase
+
 Tools: GitHub, VS Code, XAMPP, phpMyAdmin
+
 Other: REST APIs, UI/UX fundamentals, Computer Graphics (OpenGL)
 
 🌱 Fun Facts
