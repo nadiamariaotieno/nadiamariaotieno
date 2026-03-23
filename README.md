@@ -30,10 +30,11 @@ Tools: GitHub, VS Code, XAMPP, phpMyAdmin
 
 Other: REST APIs, UI/UX fundamentals, Computer Graphics (OpenGL)
 
-🌱 ** Fun Facts**
-I have a cat (unofficial QA tester).
+🌱 **Fun Facts**
+I have a cat called Lakika.
 I genuinely enjoy quality time with friends and family.
 I break things. Then I fix them. Professionally.
+
 📫 Let’s Connect
 
 📧 Email: otienonadiamaria@gmail.com
