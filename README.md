@@ -30,7 +30,7 @@ Tools: GitHub, VS Code, XAMPP, phpMyAdmin
 
 Other: REST APIs, UI/UX fundamentals, Computer Graphics (OpenGL)
 
-🌱** Fun Facts**
+🌱 ** Fun Facts**
 I have a cat (unofficial QA tester).
 I genuinely enjoy quality time with friends and family.
 I break things. Then I fix them. Professionally.
