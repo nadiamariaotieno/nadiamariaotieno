@@ -4,7 +4,7 @@ Hi, I’m Nadia 👋🏽
 💻 Software developer building systems that (usually) work
 📍 Nairobi, Kenya
 
-🚀** About Me**
+🚀 **About Me**
 
 I’m a Computer Science student who learns best by building — and then rebuilding it better.
 
