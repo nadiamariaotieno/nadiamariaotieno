@@ -10,13 +10,13 @@ I’m currently growing my skills in **software engineering, Linux, networking, 
 
 ### 🛠️ Tech Stack
 
-**Languages:** JavaScript, SQL, C#, Python
+**Languages:** JavaScript, SQL, Python
 
 **Frontend:** React, HTML, CSS, Tailwind CSS
 
 **Backend:** Node.js, Express.js, REST APIs
 
-**Databases:** PostgreSQL, MySQL, Firebase
+**Databases:** PostgreSQL, MySQL
 
 **Tools & DevOps:** Git, GitHub, Docker, Linux, VS Code
 
