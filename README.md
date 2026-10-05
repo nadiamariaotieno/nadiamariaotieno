@@ -1,40 +1,24 @@
-Hi, I’m Nadia 👋🏽
+# Hi, I'm Nadia 👋🏽
 
-🎓 Computer Science student (Applied Computer Technology)
-💻 Software developer building systems that (usually) work
+💻 **Software Developer** | React • JavaScript • Node.js
 📍 Nairobi, Kenya
 
-🚀 **About Me**
+I’m a Computer Technology graduate who learns by building, breaking, and fixing things. I enjoy developing practical web applications, working with APIs and databases, and figuring out why something *isn't working* until it finally does.
 
-I’m a Computer Science student who learns best by building — and then rebuilding it better.
+I’m currently growing my skills in **software engineering, Linux, networking, and cybersecurity**, with a long-term interest in building secure and reliable systems.
 
-I have hands-on experience developing web applications, database-driven systems, and computer graphics projects. I enjoy turning “it’s not working” into “fixed it” and transforming ideas from late-night thoughts into deployed systems.
+### 🛠️ Tech Stack
 
-I care about clean UI, secure systems, and projects that solve real problems — not just assignments that pass.
+**Languages:** JavaScript, SQL, C#, Python
+**Frontend:** React, HTML, CSS, Tailwind CSS
+**Backend:** Node.js, Express.js, REST APIs
+**Databases:** PostgreSQL, MySQL, Firebase
+**Tools & DevOps:** Git, GitHub, Docker, Linux, VS Code
 
-Future biomedical engineer.
-Current debugger of my own life.
+### 🌱 Currently Learning
 
-If it compiles, we celebrate.
-If it deploys, we brag (a little).
+Cybersecurity • Networking • Linux • Secure Software Development
 
-🛠️ **Tech Stack**
+> If it compiles, we celebrate. If it deploys, we brag a little. 😌
 
-Languages: JavaScript, C#, SQL
-
-Frameworks & Libraries: React, Tailwind CSS
-
-Backend & Databases: PHP, MySQL, Firebase
-
-Tools: GitHub, VS Code, XAMPP, phpMyAdmin
-
-Other: REST APIs, UI/UX fundamentals, Computer Graphics (OpenGL)
-
-🌱 **Fun Facts**
-I have a cat called Lakika.
-I genuinely enjoy quality time with friends and family.
-I break things. Then I fix them. Professionally.
-
-📫 Let’s Connect
-
-📧 Email: otienonadiamaria@gmail.com
+📫 **Email:** [otienonadiamaria@gmail.com](mailto:otienonadiamaria@gmail.com)
