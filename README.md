@@ -1,6 +1,7 @@
 # Hi, I'm Nadia 👋🏽
 
 💻 **Software Developer** | React • JavaScript • Node.js
+
 📍 Nairobi, Kenya
 
 I’m a Computer Technology graduate who learns by building, breaking, and fixing things. I enjoy developing practical web applications, working with APIs and databases, and figuring out why something *isn't working* until it finally does.
